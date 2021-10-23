@@ -1,0 +1,24 @@
+.profilePic{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.info{
+    display: flex;
+    width: 1090px;
+    margin: 10px;
+}
+.personalInfo{
+    width: 520px;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+.personalInfo > h5{
+    font-weight: bold;
+}
+.location > h5{
+    font-weight: bold;
+}
+.location{
+    width: 520px;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
